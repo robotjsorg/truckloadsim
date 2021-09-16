@@ -18,7 +18,7 @@ Robotic simulation of loading and unloading a truck.
  * Run `yarn start` to run and open a localhost brower to play in. You can also access via other devices on your local network.
    * localhost: http://localhost:3000/truckloadsim
    * LAN: http://10.0.1.39:3000/truckloadsim
- * Run `yarn run deploy` to deploy to the web via your linked static Github page or personal website.
 
 ###### For development
- * Run `npm install eslint-plugin-react@latest --save-dev` to fix a versioning bug.
+ * Run `yarn run deploy` to deploy to the web via your linked static Github page or personal website.
+ * Run `rm -rf ./build ./node_modules yarn.lock package-lock.json` to cleanup.
