@@ -3,7 +3,7 @@
   "version": "0.0.0-development",
   "description": "Robotic simulation of loading and unloading a truck.",
   "repository": {
-    "url": "https:git@github.com:jmcmahon443/truckloadsim.git",
+    "url": "https://robotjs.org/",
     "type": "git"
   },
   "scripts": {
@@ -23,7 +23,7 @@
   "engines": {
     "node": ">=8.3.0"
   },
-  "homepage": "https://jmcmahon443.github.io/truckloadsim/",
+  "homepage": "https://robotjs.org/",
   "devDependencies": {
     "gh-pages": "^1.2.0",
     "last-release-git": "^0.0.3",
