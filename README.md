@@ -20,5 +20,7 @@ Robotic simulation of loading and unloading a truck.
    * LAN: http://10.0.1.39:3000/truckloadsim
 
 ###### For development
+ * Delete the leading forward slashes "/" in the css and js script src tags to avoid issues.
  * Run `yarn run deploy` to deploy to the web via your linked static Github page or personal website.
+ * If `gh-pages -d build` step fails, manually copy the build folder to the `gh-pages` branch.
  * Run `rm -rf ./build ./node_modules yarn.lock package-lock.json` to cleanup.
