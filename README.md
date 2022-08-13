@@ -24,3 +24,10 @@ Robotic simulation of loading and unloading a truck.
  * Run `yarn run deploy` to deploy to the web via your linked static Github page or personal website.
  * If `gh-pages -d build` step fails, manually copy the build folder to the `gh-pages` branch.
  * Run `rm -rf ./build ./node_modules yarn.lock package-lock.json` to cleanup.
+ 
+ ###### Future work
+  * Navigation on mobile
+  * Physics
+  * Pickup and place boxes
+  * Spawn boxes
+  * Scoreboard
