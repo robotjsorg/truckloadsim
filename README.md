@@ -25,7 +25,7 @@ Robotic simulation of loading and unloading a truck.
  * If `gh-pages -d build` step fails, manually copy the build folder to the `gh-pages` branch.
  * Run `rm -rf ./build ./node_modules yarn.lock package-lock.json` to cleanup.
  
- ###### Future work
+## Future work
   * Navigation on mobile
   * Physics
   * Pickup and place boxes
